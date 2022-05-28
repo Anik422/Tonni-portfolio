@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+color:  #FB6756;
+}
+
+.about-me-details{
+    text-align: justify;
+    padding: 5px;
+}
+.profile{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 20px;
+}
+.profile img {
+    margin-top: 20px;
+    width: 100%;
+}
